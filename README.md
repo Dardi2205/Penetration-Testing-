@@ -70,8 +70,6 @@ pip3 install dirsearch --break-system-packages
 python3 main.py
 ```
 
-## Screenshots
-> Add screenshots here
 
 ## Disclaimer
 > This tool is intended for authorized penetration testing and security research only.
